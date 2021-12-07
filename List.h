@@ -21,5 +21,6 @@ bool IsFull  ();
 void  Insert (DataType);
 void  Delete (DataType); 
 void  ShowData ();
+//add comments to the code
 
 };
